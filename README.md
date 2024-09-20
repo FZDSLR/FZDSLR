@@ -1,6 +1,6 @@
 FZDSLR
 
-A student/ArchLinux user/Papercrafter
+A student/Linux user
 
 <!---
 FZDSLR/FZDSLR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
